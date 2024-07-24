@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: rgb(40, 40, 40);
+}
+textarea {
+    width: 50%;
+    height: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(34, 34, 34);
+}
