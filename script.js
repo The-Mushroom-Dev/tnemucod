@@ -1,1 +1,1 @@
-alert("js wokring")
+print()
